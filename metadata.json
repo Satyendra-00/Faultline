@@ -1,0 +1,6 @@
+{
+  "name": "FaultLine",
+  "description": "FaultLine is the world's first Decision Intelligence Network, where professionals share authentic decisions, honest failures, and lessons learned.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
